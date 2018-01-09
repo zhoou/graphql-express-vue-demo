@@ -24,13 +24,13 @@ app.use(bodyParser.text({ type: 'application/graphql' }));
 //   })
 // });
 
-app.use('/user', graphqlHTTP({
+app.post('/user', graphqlHTTP({
   schema: userSchema,
   rootValue: userControl,
   graphiql: true,
 }));
 
-app.post('/reports', (req, res) => {
+app.use('/reports', (req, res) => {
   //GraphQL executor
   graphql(reportSchema, req.body)
   .then((result) => {

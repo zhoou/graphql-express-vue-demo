@@ -1,0 +1,346 @@
+{
+  "H": "H5",
+  "records": [
+      {
+          "attach": [
+              {
+                  "fileSize": "3.2M",
+                  "filetype": "0",
+                  "name": "20180102-中泰证券-半导体行业：十大里程碑看2018中国半导体！.pdf",
+                  "pagenum": "31",
+                  "seq": 1,
+                  "url": "http://www.zhoou.com/pdf/H301_AP201801031073081825_1.pdf"
+              }
+          ],
+          "authorList": [
+              {
+                  "auth": "郑震湘",
+                  "authcode": "11000200532",
+                  "authprizeinfo": "第十四届新财富电子最佳分析师第1名"
+              }
+          ],
+          "change": "",
+          "code": "",
+          "codename": "",
+          "cprice": "",
+          "date": "2018-01-03",
+          "dprice": "",
+          "hit": "220",
+          "id": "AP201801031073081825"
+      },
+      {
+          "attach": [
+              {
+                  "fileSize": "1.0M",
+                  "filetype": "0",
+                  "name": "20180101-天风证券-有色金属2018一季度：请务必重视周期和新能源的板块机会.pdf",
+                  "pagenum": "13",
+                  "seq": 1,
+                  "url": "http://www.zhoou.com/pdf/H301_AP201801031073268155_1.pdf"
+              }
+          ],
+          "authorList": [
+              {
+                  "auth": "杨诚笑",
+                  "authcode": "11000176448",
+                  "authprizeinfo": "第十五届新财富有色金属最佳分析师第2名,第十四届新财富有色金属最佳分析师第2名"
+              },
+              {
+                  "auth": "孙亮",
+                  "authcode": "11000234146",
+                  "authprizeinfo": "第十五届新财富有色金属最佳分析师第2名,第十四届新财富有色金属最佳分析师第2名"
+              },
+              {
+                  "auth": "田源",
+                  "authcode": "11000206526",
+                  "authprizeinfo": "第十五届新财富有色金属最佳分析师第2名,第十四届新财富有色金属最佳分析师第3名"
+              },
+              {
+                  "auth": "王小芃",
+                  "authcode": "11000257651",
+                  "authprizeinfo": ""
+              }
+          ],
+          "change": "维持",
+          "code": "",
+          "codename": "",
+          "cprice": "",
+          "date": "2018-01-03",
+          "dprice": "",
+          "hit": "198",
+          "id": "AP201801031073268155"          
+      },
+      {
+          "attach": [
+              {
+                  "fileSize": "812K",
+                  "filetype": "0",
+                  "name": "20180102-招商证券-格力电器-000651.SZ-A股最“便宜”的行业龙头.pdf",
+                  "pagenum": "3",
+                  "seq": 1,
+                  "url": "http://www.zhoou.com/pdf/H301_AP201801031072849266_1.pdf"
+              }
+          ],
+          "authorList": [
+              {
+                  "auth": "纪敏",
+                  "authcode": "11000175139",
+                  "authprizeinfo": "第十五届新财富家电最佳分析师第4名,第十四届新财富家电最佳分析师第3名"
+              },
+              {
+                  "auth": "吴昊",
+                  "authcode": "11000239901",
+                  "authprizeinfo": ""
+              },
+              {
+                  "auth": "隋思誉",
+                  "authcode": "11000258536",
+                  "authprizeinfo": ""
+              }
+          ],
+          "change": "维持",
+          "code": "000651.SZ",
+          "codename": "格力电器",
+          "cprice": "46.58",
+          "date": "2018-01-03",
+          "dprice": "",
+          "hit": "185",
+          "id": "AP201801031072849266"
+      },
+      {
+          "attach": [
+              {
+                  "fileSize": "8.4M",
+                  "filetype": "0",
+                  "name": "20180102-中国银河-创新药产业深度报告暨2018年投资策略：拥抱医药创新的新时代.pdf",
+                  "pagenum": "128",
+                  "seq": 1,
+                  "url": "http://www.zhoou.com/pdf/H301_AP201801031072901094_1.pdf"
+              }
+          ],
+          "authorList": [
+              {
+                  "auth": "李平祝",
+                  "authcode": "11000173527",
+                  "authprizeinfo": ""
+              },
+              {
+                  "auth": "霍辰伊",
+                  "authcode": "11000249879",
+                  "authprizeinfo": ""
+              }
+          ],
+          "change": "维持",
+          "code": "",
+          "codename": "",
+          "cprice": "",
+          "date": "2018-01-03",
+          "dprice": "",
+          "hit": "137",
+          "id": "AP201801031072901094"
+      },
+      {
+          "attach": [
+              {
+                  "fileSize": "1.8M",
+                  "filetype": "0",
+                  "name": "20180103-华创证券-杭氧股份-002430.SZ-寻找无边界扩张的行业龙头.pdf",
+                  "pagenum": "20",
+                  "seq": 1,
+                  "url": "http://www.zhoou.com/pdf/H301_AP201801031073081840_1.pdf"
+              }
+          ],
+          "authorList": [
+              {
+                  "auth": "李佳",
+                  "authcode": "11000223321",
+                  "authprizeinfo": "第十四届新财富机械最佳分析师第5名"
+              },
+              {
+                  "auth": "鲁佩",
+                  "authcode": "11000212726",
+                  "authprizeinfo": "第十四届新财富机械最佳分析师第5名"
+              },
+              {
+                  "auth": "赵志铭",
+                  "authcode": "11000238747",
+                  "authprizeinfo": ""
+              }
+          ],
+          "change": "维持",
+          "code": "002430.SZ",
+          "codename": "杭氧股份",
+          "cprice": "16.15",
+          "date": "2018-01-03",
+          "dprice": "",
+          "hit": "79",
+          "id": "AP201801031073081840"
+      },
+      {
+          "attach": [
+              {
+                  "fileSize": "4.6M",
+                  "filetype": "0",
+                  "name": "20171231-光大证券-石油化工行业2018年投资策略之一：原油走向复苏，看好天然气和民营大炼化的崛起.pdf",
+                  "pagenum": "48",
+                  "seq": 1,
+                  "url": "http://www.zhoou.com/pdf/H301_AP201801021071831536_1.pdf"
+              }
+          ],
+          "authorList": [
+              {
+                  "auth": "裘孝锋",
+                  "authcode": "11000174609",
+                  "authprizeinfo": "第十五届新财富石油化工最佳分析师第2名,第十四届新财富石油化工最佳分析师第2名"
+              },
+              {
+                  "auth": "赵乃迪",
+                  "authcode": "11000238320",
+                  "authprizeinfo": "第十五届新财富石油化工最佳分析师第2名,第十四届新财富石油化工最佳分析师第2名"
+              }
+          ],
+          "change": "维持",
+          "code": "",
+          "codename": "",
+          "cprice": "",
+          "date": "2018-01-02",
+          "dprice": "",
+          "hit": "48",
+          "id": "AP201801021071831536"
+      },
+      {
+          "attach": [
+              {
+                  "fileSize": "404K",
+                  "filetype": "0",
+                  "name": "20180104-天风证券-电子制造行业点评：被动元器件涨价趋势不减，行业高景气度下关注国内龙头企业.pdf",
+                  "pagenum": "2",
+                  "seq": 1,
+                  "url": "http://www.zhoou.com/pdf/H301_AP201801041073582546_1.pdf"
+              }
+          ],
+          "authorList": [
+              {
+                  "auth": "潘暕",
+                  "authcode": "11000257845",
+                  "authprizeinfo": ""
+              },
+              {
+                  "auth": "陈俊杰",
+                  "authcode": "11000259247",
+                  "authprizeinfo": ""
+              }
+          ],
+          "change": "维持",
+          "code": "",
+          "codename": "",
+          "cprice": "",
+          "date": "2018-01-04",
+          "dprice": "",
+          "hit": "46",
+          "id": "AP201801041073582546"
+      },
+      {
+          "attach": [
+              {
+                  "fileSize": "905K",
+                  "filetype": "0",
+                  "name": "20180104-东北证券-交通运输行业深度报告：航线票价放开弹性测算深度解析.pdf",
+                  "pagenum": "13",
+                  "seq": 1,
+                  "url": "http://www.zhoou.com/pdf/H301_AP201801041073682199_1.pdf"
+              }
+          ],
+          "authorList": [
+              {
+                  "auth": "瞿永忠",
+                  "authcode": "11000176416",
+                  "authprizeinfo": ""
+              },
+              {
+                  "auth": "王晓艳",
+                  "authcode": "11000172092",
+                  "authprizeinfo": ""
+              },
+              {
+                  "auth": "明兴",
+                  "authcode": "11000245049",
+                  "authprizeinfo": ""
+              }
+          ],
+          "change": "调高",
+          "code": "",
+          "codename": "",
+          "cprice": "",
+          "date": "2018-01-04",
+          "dprice": "",
+          "hit": "45",
+          "id": "AP201801041073682199"
+      },
+      {
+          "attach": [
+              {
+                  "fileSize": "1.5M",
+                  "filetype": "0",
+                  "name": "20180103-国金证券-石油化工行业研究：民营大炼油系列报告之PX供需格局：国内产能扩张加速，一体化提升竞争力.pdf",
+                  "pagenum": "16",
+                  "seq": 1,
+                  "url": "http://www.zhoou.com/pdf/H301_AP201801041073574507_1.pdf"
+              }
+          ],
+          "authorList": [
+              {
+                  "auth": "蒲强",
+                  "authcode": "11000213924",
+                  "authprizeinfo": ""
+              },
+              {
+                  "auth": "郭一凡",
+                  "authcode": "11000240344",
+                  "authprizeinfo": ""
+              }
+          ],
+          "change": "维持",
+          "code": "",
+          "codename": "",
+          "cprice": "",
+          "date": "2018-01-04",
+          "dprice": "",
+          "hit": "45",
+          "id": "AP201801041073574507"
+      },
+      {
+          "attach": [
+              {
+                  "fileSize": "611K",
+                  "filetype": "0",
+                  "name": "20171229-国信证券-中科曙光-603019.SH-重大事件快评：深度学习平台获发改委人工智能重大工程支持项目.pdf",
+                  "pagenum": "5",
+                  "seq": 1,
+                  "url": "http://www.zhoou.com/pdf/H301_AP201801041073649519_1.pdf"
+              }
+          ],
+          "authorList": [
+              {
+                  "auth": "高耀华",
+                  "authcode": "11000176831",
+                  "authprizeinfo": ""
+              },
+              {
+                  "auth": "何立中",
+                  "authcode": "11000251333",
+                  "authprizeinfo": ""
+              }
+          ],
+          "change": "维持",
+          "code": "603019.SH",
+          "codename": "中科曙光",
+          "cprice": "42.58",
+          "date": "2018-01-04",
+          "dprice": "",
+          "hit": "44",
+          "id": "AP201801041073649519"
+      }
+  ],
+  "total": 10
+}

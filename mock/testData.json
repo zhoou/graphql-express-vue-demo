@@ -1,0 +1,14 @@
+[
+  {
+    "name": "zhoou",
+    "sex": "男",
+    "intro": "Full Stack Developer",
+    "skills": ["前端","nodejs","mongodb","nginx"]
+  },
+  {
+    "name": "James",
+    "sex": "男",
+    "intro": "zhaiqianfeng的英文名",
+    "skills": ["Linux","Java","nodeJs","前端"]
+  }
+]
